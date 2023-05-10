@@ -1,0 +1,62 @@
+{
+    "users": [
+        {
+            "username": "1",
+            "email": "dannyboy1737@gmail.com",
+            "password": "1",
+            "date_created": "2023-05-08T12:00:00",
+            "last_login": "2021-05-03T08:30:00",
+            "is_admin": false,
+            "credit": "$85.0",
+            "credit-limit": "$585.00",
+            "checking": "$5218.0",
+            "savings": "$585.00",
+            "debt": "585.00",
+            "networth": "1170"
+        },
+        {
+            "username": "Danil",
+            "email": "dannyboy1737@gmail.com",
+            "password": "1",
+            "date_created": "2023-05-08T12:00:00",
+            "last_login": "2021-05-03T08:30:00",
+            "is_admin": false,
+            "credit": "$585.00",
+            "credit-limit": "$585.00",
+            "checking": "$585.00",
+            "savings": "$585.00"
+        },
+        {
+            "username": "Danil Sidorov",
+            "email": "dannyboy1737@gmail.com",
+            "password": "23018961",
+            "date_created": "2023-05-08T12:00:00",
+            "last_login": "2021-05-03T08:30:00",
+            "is_admin": false
+        },
+        {
+            "username": "johndoe",
+            "email": "johndoe@example.com",
+            "password": "password123",
+            "date_created": "2021-05-01T12:00:00",
+            "last_login": "2021-05-03T08:30:00",
+            "is_admin": false
+        },
+        {
+            "username": "janedoe",
+            "email": "janedoe@example.com",
+            "password": "letmein456",
+            "date_created": "2021-05-02T15:00:00",
+            "last_login": "2021-05-05T11:45:00",
+            "is_admin": true
+        },
+        {
+            "username": "bobsmith",
+            "email": "bobsmith@example.com",
+            "password": "mypassword",
+            "date_created": "2021-05-03T08:00:00",
+            "last_login": "2021-05-04T16:20:00",
+            "is_admin": false
+        }
+    ]
+}
